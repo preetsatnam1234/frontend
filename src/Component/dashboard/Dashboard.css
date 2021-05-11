@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.d-sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  height: 100vh;
+  background-color: #303456;
+  text-align: center;
+}
+.side-item {
+  width: 80px;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  margin: 5px;
+  margin-left: 10px;
+}
+.side-item .active {
+  background-color: #ea5179;
+  border-radius: 10px;
+}
+.d-sidebar a {
+  text-decoration: none;
+}
+.d-area {
+  display: flex;
+}
+.d-navbar {
+  height: 50px;
+  background-color: grey;
+}
