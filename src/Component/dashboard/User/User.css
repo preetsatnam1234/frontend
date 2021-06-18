@@ -1,0 +1,69 @@
+.userform-card {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.form-wrapper1 {
+  padding-top: 25px;
+}
+
+.form-input1 {
+  display: flex;
+  flex-direction: column;
+}
+.form-input2 {
+  display: flex;
+  flex-direction: column;
+}
+.inputField1 {
+  border: none;
+  background-color: #f3f5f9;
+  border-radius: 20px;
+  height: 50px;
+}
+
+.form-wrapper2 {
+  padding-top: 25px;
+}
+.inputField2 {
+  border: none;
+  background-color: #f3f5f9;
+  border-radius: 20px;
+  height: 50px;
+}
+.form-input3 {
+  display: flex;
+  flex-direction: column;
+}
+.form-wrapper3 {
+  padding-top: 25px;
+}
+.inputField3 {
+  border: none;
+  background-color: #f3f5f9;
+  border-radius: 20px;
+  height: 50px;
+}
+.lab-input4 {
+  display: flex;
+  flex-direction: column;
+}
+.form-button-wrapper {
+}
+.form-button {
+  width: 350px;
+  height: 50px;
+  border-radius: 20px;
+  border-style: none;
+  float: right;
+  background-color: palevioletred;
+}
+.user-board .table_row1 {
+  width: %;
+  height: 10px;
+  background-color: white;
+}
+.table_cell1 {
+  border-style: none;
+  border-radius: 20px;
+}

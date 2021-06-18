@@ -1,0 +1,33 @@
+.table-row1 {
+  width: 100%;
+  height: 5px;
+  background-color: white;
+}
+.table-cell1 {
+  border-style: none;
+  border-radius: 20px;
+}
+.link-button {
+  text-decoration: none;
+}
+
+.form-category {
+  padding: 25px;
+}
+.form-category .form-category_header1 {
+}
+
+.form-category .category-textfield {
+  width: 100%;
+  height: 45px;
+  background-color: #f3f5f9;
+  border: none;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.form-category .category-button {
+  width: 300px;
+  float: right;
+  margin-top: 20px;
+  border-radius: 20px;
+}

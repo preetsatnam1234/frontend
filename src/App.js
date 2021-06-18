@@ -1,11 +1,16 @@
+import { BrowserRouter } from 'react-router-dom';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import { Dashboard } from './Component/dashboard/Dashboard';
-import "./Component/dashboard/Dashboard.css"
 
 function App() {
   return (
     <div>
-   <Dashboard/>
+      <BrowserRouter>
+      <Dashboard/>
+      </BrowserRouter>
+  
+   
     </div>
   );
 }

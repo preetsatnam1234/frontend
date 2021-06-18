@@ -1,0 +1,40 @@
+.header-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header-wrapper .product-link-button {
+  text-decoration: none;
+}
+.header-wrapper .product-button1 {
+  border-radius: 20px;
+}
+.product-textfield {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+.product-textfield .product-lab-input1 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.product-lab-input1 .inputfield1 {
+  width: 280px;
+  height: 30px;
+
+  border-style: none;
+  border-radius: 20px;
+}
+.product-textfield .product-lab-input3 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.product-lab-input3 .inputfield3 {
+  width: 180px;
+  height: 30px;
+  border-style: none;
+  border-radius: 20px;
+}
